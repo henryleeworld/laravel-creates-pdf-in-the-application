@@ -1,4 +1,4 @@
-# Laravel 11 在應用程式中建立 PDF
+# Laravel 12 在應用程式中建立 PDF
 
 引入 spatie 的 laravel-pdf 套件來擴增使用 Chromium（透過 Browsershot）從 Blade 視圖建立 PDF 檔案。
 
@@ -24,10 +24,9 @@ $ npm install
 ```sh
 $ npm run build
 ```
-- 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/swxHpEs.png)
+![](https://i.imgur.com/YoUgU4M.jpg)
 > 使用 Adobe Acrobat Reader 確認中文是否亂碼 
